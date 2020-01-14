@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F5C8770-75D5-4402-815E-8C9F2DA5BDE1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EAE820E-F148-4F99-AC32-02F85D8B6A12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data/Repository/ApiOrangeBankRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B43B8CAB-5C0B-44D6-955A-C8CAAE76244E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "domainModel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B43B8CAB-5C0B-44D6-955A-C8CAAE76244E - 92fb98a600c5cf34"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data.TransactionsDataModel.domainModel.getter : Domain.TransactionsDomainModel"
+                  moduleName = "Data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ali.ghanbari.local/Documents/Pruebas%20entre/OrangeBankTest/Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "B43B8CAB-5C0B-44D6-955A-C8CAAE76244E - 4d69e65517d4addf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Data.TransactionsItemDataModel) -&gt; Swift.Bool in Data.TransactionsDataModel.domainModel.getter : Domain.TransactionsDomainModel"
+                  moduleName = "Data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ali.ghanbari.local/Documents/Pruebas%20entre/OrangeBankTest/Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C47E439-3F99-4595-B962-B37E7CD17D60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "domainModel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2C47E439-3F99-4595-B962-B37E7CD17D60 - 92fb98a600c5cf34"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data.TransactionsDataModel.domainModel.getter : Domain.TransactionsDomainModel"
+                  moduleName = "Data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ali.ghanbari.local/Documents/Pruebas%20entre/OrangeBankTest/Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "259">
+               </Location>
+               <Location
+                  uuid = "2C47E439-3F99-4595-B962-B37E7CD17D60 - 87825682b6b13f00"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Data.TransactionsItemDataModel) -&gt; Domain.TransactionsItemDomainModel in Data.TransactionsDataModel.domainModel.getter : Domain.TransactionsDomainModel"
+                  moduleName = "Data"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ali.ghanbari.local/Documents/Pruebas%20entre/OrangeBankTest/Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA95ED14-9C46-4142-A1DF-7D9F94172CC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39DDB9EC-0790-4466-B07A-DB761E4928B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrangeBankTest/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F23A7B0-AAF3-4258-871F-B00447071A2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrangeBankTest/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E341954-7593-48AD-89DE-F07C8C631023"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OrangeBankTest/Scenes/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "update(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C65D6D11-F2D2-4D20-AD66-2E1221509AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data/Repository/Model/Transactions/TransactionsDataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "domainModel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
